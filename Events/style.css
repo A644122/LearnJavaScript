@@ -1,0 +1,5 @@
+.heading{
+    background-color: aqua;
+border: 2px solid black;
+box-shadow: rgba(rgb(244, 122, 122), rgb(134, 232, 134), rgb(151, 151, 231), alpha);
+}
